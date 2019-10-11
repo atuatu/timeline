@@ -15,6 +15,7 @@
 		50BD93BC234C602500A655DC /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BD93BA234C602500A655DC /* TableViewCell.swift */; };
 		50BD93BD234C602500A655DC /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50BD93BB234C602500A655DC /* TableViewCell.xib */; };
 		50BD93BF234C615800A655DC /* table.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50BD93BE234C615800A655DC /* table.swift */; };
+		50BD93C1234C67AF00A655DC /* batu.png in Resources */ = {isa = PBXBuildFile; fileRef = 50BD93C0234C67AF00A655DC /* batu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		50BD93BA234C602500A655DC /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		50BD93BB234C602500A655DC /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 		50BD93BE234C615800A655DC /* table.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = table.swift; sourceTree = "<group>"; };
+		50BD93C0234C67AF00A655DC /* batu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = batu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		50BD93A5234C5F6E00A655DC /* cellwotukuritainnjaa */ = {
 			isa = PBXGroup;
 			children = (
+				50BD93C0234C67AF00A655DC /* batu.png */,
 				50BD93A6234C5F6E00A655DC /* AppDelegate.swift */,
 				50BD93A8234C5F6E00A655DC /* ViewController.swift */,
 				50BD93BE234C615800A655DC /* table.swift */,
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50BD93B1234C5F7000A655DC /* LaunchScreen.storyboard in Resources */,
+				50BD93C1234C67AF00A655DC /* batu.png in Resources */,
 				50BD93BD234C602500A655DC /* TableViewCell.xib in Resources */,
 				50BD93AE234C5F7000A655DC /* Assets.xcassets in Resources */,
 				50BD93AC234C5F6E00A655DC /* Main.storyboard in Resources */,
